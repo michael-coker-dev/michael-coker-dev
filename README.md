@@ -22,6 +22,13 @@ A multi-page exchange interface prototype with market views, account screens, an
 ### [Fund Grow — Banking Interface](https://github.com/michael-coker-dev/banking)
 A financial dashboard concept exploring account summaries, transaction views, and responsive interface design. This is a demonstration project, not a real bank or payment platform.
 
+### More front-end practice
+
+- [Interface Practice Lab](https://michael-coker-dev.github.io/cobra/) — Mixlr-inspired and SQI-inspired static page recreations.
+- [Marketplace UI Studies](https://michael-coker-dev.github.io/scaling-potato/) — three static marketplace information-page exercises.
+
+These are learning exercises, not official brand websites or commissioned client work.
+
 ## What I'm open to
 
 - Website design and development projects
